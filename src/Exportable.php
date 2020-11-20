@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Test;
+namespace dimooooon322\Export;
 
 interface Exportable
 {

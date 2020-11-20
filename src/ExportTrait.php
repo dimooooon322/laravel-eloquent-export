@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Test;
+namespace dimooooon322\Export;
 
 use Illuminate\Database\Eloquent\Builder;
 
