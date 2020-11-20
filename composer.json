@@ -1,0 +1,18 @@
+{
+    "name": "dimooooon322/laravel-eloquent-export",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dimooooon322",
+            "email": "dj.torvalt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4",
+        "illuminate/database": "^v8",
+        "maatwebsite/excel": "^3.1"
+    },
+    "description": "Package for easy exporting data with eloquent model"
+}
