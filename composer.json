@@ -14,11 +14,10 @@
             "dimooooon322\\Export\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "version": "v1.0.0",
     "require": {
         "php": "^7.4",
         "illuminate/database": "^v8",
         "maatwebsite/excel": "^3.1"
-    }
+    },
+    "minimum-stability": "dev"
 }
